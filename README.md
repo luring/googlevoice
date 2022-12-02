@@ -159,3 +159,4 @@ Google Voice 支持转移到其他谷歌帐号，条件如下：
 - 代理不是美国原生 IP
 - 使用时长太短（勿频繁更换 IP 和设备）
 
+※※※gv福利电报TG群：https://t.me/gvfuli
