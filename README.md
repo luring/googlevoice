@@ -52,7 +52,7 @@ Google Voice（简称 GV）是谷歌推出的虚拟号码，0 月租、免费拨
 ## 购买 Google Voice
 如果你无法注册 GV，欢迎选购全网最优质 GV、Gmail、各区 Apple ID
 
-- Telegram 群组：[V2EX](https://t.me/gvfuli)
+- Telegram 群组：[GV特价](https://t.me/gvfuli)
 
 
 
